@@ -1,0 +1,43 @@
+
+
+
+
+
+    header{
+        background-color: #cc9393;
+        color: #333030;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        h1{
+            color:#fff7f7;
+    }
+
+    }
+    section{
+        margin-top: 50px;
+        
+    }
+    .products{
+        display: flex;
+    
+    }
+    .products-item img{
+        border-radius: 16px;
+    }
+    h2{
+        font-size: 50px;
+        font-weight: bold;
+        color: #46d32a;
+        
+    }
+    .products {
+        grid-template-columns: repeat(2, 48.5%);
+        column-gap: 3%;
+    }
+    h1{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    
